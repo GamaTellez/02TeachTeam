@@ -1,0 +1,33 @@
+#divOne {
+    height: 100px;
+    font-size: 15px;
+}
+
+#divOne:hover, #divTwo:Hover, #divThree:Hover {
+    font-size: 60px;
+    background-color: 
+}
+
+#divOneSelect {
+    margin-top: 50px;
+}
+
+#divTwo {
+    height: 100px;
+    font-size: 15px;
+}
+
+#divThree {
+    height: 100px;
+    font-size: 15px;
+}
+
+#buttonWrapperDiv {
+    text-align: center;
+    height: 50px;
+}
+
+#clickMeButton {
+    position: absolute;
+    margin-top: 10px;
+}
